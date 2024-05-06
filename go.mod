@@ -1,3 +1,3 @@
-module github.com/emilsosa/mygopackage v0.0.1
+module github.com/emilsosa/mygopackage
 
 go 1.22.1
